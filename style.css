@@ -102,7 +102,7 @@ a {
   align-items: center;
 }
 .heros.controls .details .image {
-  background: url("img/smart-build.jpeg") center center no-repeat;
+  background: url("img/smart-build.jpg") center center no-repeat;
   background-size: cover;
   position: relative;
   width: 100%;
