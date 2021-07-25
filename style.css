@@ -147,7 +147,7 @@ a {
   font-weight: 600;
   line-height: 1.4;
   letter-spacing: 2px;
-  text-shadow: 7px 7px 9px #333;
+  text-shadow: 7px 7px 10px rgba(0, 0, 0, 0.6);
 }
 .heros.controls .details .content.ar h1 {
   letter-spacing: 0;
